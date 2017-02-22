@@ -2,8 +2,16 @@
   "name": "psg-theme-float",
   "version": "0.0.0",
   "license": "MIT",
+  "author": "Jesse R Mykolyn",
+  "description": "'Float' is a PostCSS Style Guide theme.",
   "keywords": [
-    "psg-theme"
+    "psg-theme",
+    "psg-theme-float",
+    "sfco",
+    "postcss",
+    "postcss style guide",
+    "style guide",
+    "style guide theme"
   ],
   "files": [],
   "dependencies": {}
