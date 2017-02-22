@@ -4,6 +4,10 @@
   "license": "MIT",
   "author": "Jesse R Mykolyn",
   "description": "'Float' is a PostCSS Style Guide theme.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrmykolyn/psg-theme-float.git"
+  },
   "keywords": [
     "psg-theme",
     "psg-theme-float",
